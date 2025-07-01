@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">RotaDataCollection</string>
+    <string-array name="yn">
+        <item>please select</item>
+        <item>yes</item>
+        <item>no</item>
+    </string-array>
+    <array name="sex">
+        <item>please select</item>
+        <item>Male</item>
+        <item>Female</item>
+    </array>
+
+    <array name="r_reason">
+        <item>please select</item>
+        <item>No time</item>
+        <item>Not interested</item>
+        <item>Fear of enrolling</item>
+        <item>No reason</item>
+        <item>Others</item>
+    </array>
+    <array name="vac_info_list">
+        <item>please select</item>
+        <item>By history</item>
+        <item>Vaccination card</item>
+        <item>Others</item>
+        <item>Unknown</item>
+    </array>
+    <array name="rel_list">
+        <item>please select</item>
+        <item>Mother</item>
+        <item>Father</item>
+        <item>Other</item>
+    </array>
+    <array name="dehy_deg_list">
+        <item>please select</item>
+        <item>None</item>
+        <item>Severe</item>
+        <item>Some</item>
+        <item>Unknown</item>
+    </array>
+    <array name="rehy_type_list">
+        <item>please select</item>
+        <item>Oral rehydration solution (ORS) / Oral rehydration therapy (ORT)</item>
+        <item>IV fluids</item>
+        <item>Other</item>
+        <item>Both</item>
+        <item>ORS/ORT and/or IV fluids and Other/Multiple</item>
+        <item>Unknown</item>
+    </array>
+    <array name="vaccine_name_list">
+        <item>please select</item>
+        <item>Rotarix GSK</item>
+        <item>RotaTeq</item>
+        <item>RotaVac Merck</item>
+        <item>RotaSure</item>
+        <item>Rotasiil</item>
+        <item>Unknown</item>
+    </array>
+    <array name="cond_list">
+        <item>please select</item>
+        <item>Well, alert</item>
+        <item>Restless, irritable</item>
+        <item>Lethargic, unconscious</item>
+        <item>Not documented</item>
+    </array>
+    <array name="heart_list">
+        <item>please select</item>
+        <item>Normal</item>
+        <item>Normal to increased</item>
+        <item>Tachycardia, with bradycardia in most severe cases</item>
+        <item>Not documented</item>
+    </array>
+    <array name="pulse_list">
+        <item>please select</item>
+        <item>Normal</item>
+        <item>Normal to decreased</item>
+        <item>Weak, thready, or impalpable</item>
+        <item>Not documented</item>
+    </array>
+    <array name="tear_list">
+        <item>please select</item>
+        <item>Present</item>
+        <item>Decreased</item>
+        <item>Absent</item>
+        <item>Not documented</item>
+    </array>
+    <array name="tongue_list">
+        <item>please select</item>
+        <item>Moist</item>
+        <item>Dry</item>
+        <item>Parched</item>
+        <item>Not documented</item>
+    </array>
+    <array name="skin_list">
+        <item>please select</item>
+        <item>Instant recoil (goes back quickly)</item>
+        <item>Recoil &lt;2 seconds</item>
+        <item>Lethargic, unconscious</item>
+        <item>Not documented</item>
+    </array>
+    <array name="capillary_list">
+        <item>please select</item>
+        <item>Normal</item>
+        <item>Prolonged (2 sec)</item>
+        <item>3 sec, prolonged, minimal</item>
+        <item>Not documented</item>
+    </array>
+    <array name="extrem_list">
+        <item>please select</item>
+        <item>Warm</item>
+        <item>Cool</item>
+        <item>Cold, mottled, cyanotic</item>
+        <item>Not documented</item>
+    </array>
+    <array name="outcome_list">
+        <item>please select</item>
+        <item>Discharged alive</item>
+        <item>Died</item>
+        <item>Transferred</item>
+        <item>Left/Discharged against medical advice</item>
+        <item>Unknown</item>
+    </array>
+</resources>
